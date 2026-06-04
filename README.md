@@ -1,5 +1,9 @@
 # Superpowers
 
+> ⚠️ **This is a personal mirror** of [obra/superpowers](https://github.com/obra/superpowers) by [Jesse Vincent](https://github.com/obra).  
+> Licensed under MIT. Original work © Jesse Vincent. This mirror is maintained for personal use.
+> For the official version, contributions, and issues, please visit the [original repository](https://github.com/obra/superpowers).
+
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
 
 ## Quickstart
